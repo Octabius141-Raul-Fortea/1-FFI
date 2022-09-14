@@ -15,4 +15,3 @@
     4. Potencial y energía electrostática
 
 ## Ley de Coulomb ##
-    ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-TFwzZ1lw-9w%2FWAKrQFLW6yI%2FAAAAAAAAAqs%2Fz_w8MMAbbKMw5MreDnTS2zFiFEmEzDoQgCLcB%2Fs1600%2FCarga-Electrica-1.jpg&f=1&nofb=1 "Title")
